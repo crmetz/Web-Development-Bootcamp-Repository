@@ -1,5 +1,5 @@
 # Web-Development-Bootcamp-Repository
-This is the repository with the projects that i've mad thorought the course. 
+This is the repository with the projects that i've made throughout the course.
 
 ## Used Technologies: 
 
