@@ -1,5 +1,5 @@
 # Blog API project
-In this project i've made an api to operate the creationg, update and delete of posts.
+In this project i've made an api to operate the creation, update and delete of posts.
 
 ## Used Technologies: 
 
